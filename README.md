@@ -66,7 +66,7 @@
 ## 🤝 Connect & Collaborate
 
 - 👩‍💻 [LinkedIn](https://www.linkedin.com/in/ruhmahashmi)
-- 🌐 [Portfolio](https://ruhmahashmi.github.io/ruhma-portfolio)
+- 🌐 [Portfolio](https://ruhmahashmi.github.io/portfolio)
 - 🦉 [Devpost](https://devpost.com/ruhmahashmi)
 - 📫 Email: [rh927@drexel.edu](mailto:rh927@drexel.edu)
 
