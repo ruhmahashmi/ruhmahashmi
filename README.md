@@ -5,9 +5,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWN4Y3pvdnhkb3F3YjdwZjlqemhhMHlhaHFzYnpkNmdwZ2d3NHFrNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mH3Yzkq0fU2W8/giphy.gif" width="100px">
-</p>
-<p align="center">
   <strong>BS in Computer Science & AI (Class of 2029) | Drexel University 🇺🇸</strong><br>
   <a href="mailto:rh927@drexel.edu">Email</a> •
   <a href="https://www.linkedin.com/in/ruhmahashmi/">LinkedIn</a> •
