@@ -9,7 +9,7 @@
   <a href="mailto:rh927@drexel.edu">Email</a> •
   <a href="https://www.linkedin.com/in/ruhmahashmi/">LinkedIn</a> •
   <a href="https://github.com/ruhmahashmi">GitHub</a> •
-  <a href="https://ruhmahashmi.github.io/ruhma-portfolio/">Portfolio</a>
+  <a href="https://ruhmahashmi.github.io/portfolio/">Portfolio</a>
 </p>
 
 ---
@@ -48,7 +48,7 @@
 - **[GreenPrompts](#)**: Chrome extension optimizing AI prompts for less energy (Node.js, Gemini API)
 - **[Stop&Save](#)**: AI finance tool with wishlist and delay timer (JS, Chart.js)
 
-> ⚡️ Check my pinned projects below or [portfolio site](https://ruhmahashmi.github.io/ruhma-portfolio) for live previews & demos!
+> ⚡️ Check my pinned projects below or [portfolio site](https://ruhmahashmi.github.io/portfolio) for live previews & demos!
 
 ---
 
