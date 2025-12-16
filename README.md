@@ -54,9 +54,10 @@
 
 ## 🏆 Awards & Recognition
 
-|🥇 Global Scholars Scholarship | $264,000 | Drexel University |
+| 🥇 Global Scholars Scholarship | $264,000 | Drexel University |
 |-------------------------------|----------|-------------------|
 | 🌱 STEM Scholar               | $4,000   | WICT Network      |
+| 🌱 Research Grant              | $1,000   | UREP      |
 | 🥈 CodeFest 2025, 2nd Place   | $500     | Philly CodeFest   |
 | ⭐ STAR Scholar & Frances Velay Fellow | $3,500 | UREP   |
 | 👾 Best Use of Auth0 & UI/UX HM | WaffleHacks 2022 | |
