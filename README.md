@@ -67,6 +67,7 @@
 ## 🤝 Connect & Collaborate
 
 - 👩‍💻 [LinkedIn](https://www.linkedin.com/in/ruhmahashmi)
+- 📝 [Orcid](https://orcid.org/0009-0004-2415-0238)) 
 - 🌐 [Portfolio](https://ruhmahashmi.github.io/portfolio)
 - 🦉 [Devpost](https://devpost.com/ruhmahashmi)
 - 📫 Email: [rh927@drexel.edu](mailto:rh927@drexel.edu)
