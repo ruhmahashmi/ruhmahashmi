@@ -199,39 +199,6 @@ Personalized timetable generator for Drexel students with real-time conflict val
 
 </div>
 
-<details>
-<summary><code>⚙️ How to enable the snake animation</code></summary>
-
-1. In your profile repo (`ruhmahashmi/ruhmahashmi`), go to **Actions** → **New workflow**
-2. Create `.github/workflows/snake.yml` with this content:
-
-```yaml
-name: Generate Snake
-on:
-  schedule: [{ cron: "0 0 * * *" }]
-  workflow_dispatch:
-permissions:
-  contents: write
-jobs:
-  snake:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ruhmahashmi
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
 ---
 
 ## 🛠 TECH STACK
