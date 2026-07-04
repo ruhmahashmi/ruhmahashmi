@@ -35,6 +35,8 @@ Research Developer @ Drexel CCI &nbsp;·&nbsp; Data AI & Analytics Co-op @ True 
 <img src="https://img.shields.io/badge/3×_Published-1a1208?style=flat-square&logoColor=white"/><br><br>
 <img src="https://img.shields.io/badge/$274K_Awarded-D85A30?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Philly_Codefest_2nd-1a1208?style=flat-square&logoColor=white"/>
+<br>
+<img src="https://komarev.com/ghpvc/?username=ruhmahashmi&color=ff69b4" />
 
 </td>
 </tr>
