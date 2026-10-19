@@ -178,8 +178,8 @@ Personalized timetable generator for Drexel students with real-time conflict val
 </table>
 
 ---
-
-## 📊 GITHUB STATS
+<!--
+ ## 📊 GITHUB STATS
 
 <div align="center">
 
@@ -190,7 +190,7 @@ Personalized timetable generator for Drexel students with real-time conflict val
 ![GitHub Streak](https://streak-stats.demolab.com?user=ruhmahashmi&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30)
 
 </div>
-
+-->
 ---
 
 ## 🐍 CONTRIBUTION SNAKE
